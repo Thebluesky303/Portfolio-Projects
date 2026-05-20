@@ -1,0 +1,98 @@
+{
+  "name": "Bikash Limbu",
+  "target_country": "United Kingdom",
+  "target_roles": [
+    "Junior Data Analyst",
+    "Graduate Data Analyst",
+    "Data Analyst",
+    "Power BI Analyst",
+    "Business Intelligence Analyst",
+    "Junior Data Scientist",
+    "Graduate Data Scientist",
+    "Machine Learning Intern",
+    "AI Research Assistant",
+    "Research Assistant",
+    "SQL Analyst",
+    "Reporting Analyst"
+  ],
+  "target_locations": [
+    "London",
+    "High Wycombe",
+    "Birmingham",
+    "Manchester",
+    "Remote",
+    "Hybrid",
+    "United Kingdom"
+  ],
+  "skills": [
+    "Python",
+    "SQL",
+    "Power BI",
+    "Excel",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "Machine Learning",
+    "Data Cleaning",
+    "EDA",
+    "Data Visualisation",
+    "MySQL",
+    "MongoDB",
+    "GitHub",
+    "TensorFlow",
+    "PyTorch",
+    "Deep Learning",
+    "Dashboarding",
+    "Report Writing"
+  ],
+  "projects": [
+    {
+      "name": "London Urban Stress and Happiness Index",
+      "skills": ["MongoDB", "Python", "Data Visualisation", "Power BI", "Data Cleaning"]
+    },
+    {
+      "name": "House Price Prediction",
+      "skills": ["Python", "Machine Learning", "EDA", "SQL", "Power BI"]
+    },
+    {
+      "name": "Graph Neural Network Drug-Target Interaction Dissertation",
+      "skills": ["Python", "PyTorch", "Machine Learning", "Deep Learning", "Research"]
+    },
+    {
+      "name": "Face Mask Detection CNN",
+      "skills": ["Python", "TensorFlow", "Deep Learning", "Computer Vision"]
+    }
+  ],
+  "experience_level": [
+    "Entry Level",
+    "Graduate",
+    "Junior",
+    "Intern",
+    "Trainee",
+    "Research Assistant"
+  ],
+  "avoid_keywords": [
+    "Senior",
+    "Lead",
+    "Principal",
+    "Manager",
+    "5 years",
+    "7 years",
+    "10 years",
+    "SC clearance",
+    "UK citizen only",
+    "commission only",
+    "unpaid"
+  ],
+  "match_thresholds": {
+    "excellent": 85,
+    "good": 70,
+    "medium": 50
+  },
+  "notification_times": {
+    "morning": "09:00",
+    "evening": "19:00"
+  },
+  "approval_required": true,
+  "auto_apply": false
+}
